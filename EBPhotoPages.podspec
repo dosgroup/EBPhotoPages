@@ -10,7 +10,7 @@ The library was designed using a state pattern to control the behavior of the ga
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author             = "Eddy Borja"
   s.social_media_url   = "http://twitter.com/eddyborja_"
-  s.platform     = :ios, '7.0'
+  s.platform     = :ios, '6.0'
   s.source       = { :git => "https://github.com/EddyBorja/EBPhotoPages.git", :tag => "0.9.1" }
   s.source_files  = "EBPhotoPagesController", "EBPhotoPagesController/**/*.{h,m}"
   s.frameworks = "QuartzCore", "CoreGraphics", "AVFoundation"
